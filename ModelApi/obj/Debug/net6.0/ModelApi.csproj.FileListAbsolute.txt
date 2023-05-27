@@ -1,0 +1,120 @@
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\appsettings.json
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\ModelApi.exe
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\ModelApi.deps.json
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\ModelApi.runtimeconfig.json
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\ModelApi.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\ModelApi.pdb
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.csproj.AssemblyReference.cache
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.AssemblyInfoInputs.cache
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.AssemblyInfo.cs
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\staticwebassets\msbuild.ModelApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ModelApi.props
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModelApi.props
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModelApi.props
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\scopedcss\bundle\ModelApi.styles.css
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.csproj.CopyComplete
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\refint\ModelApi.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.pdb
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ModelApi.genruntimeconfig.cache
+D:\Programming\C#\Machinelearningcode\ModelApi\obj\Debug\net6.0\ref\ModelApi.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.Core.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.Data.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.KMeansClustering.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.PCA.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.StandardTrainers.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.Transforms.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.CpuMath.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\win-x64\native\LdaNative.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\win-x86\native\LdaNative.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.FastTree.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\Microsoft.ML.LightGbm.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\linux-x64\native\lib_lightgbm.so
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\osx-x64\native\lib_lightgbm.dylib
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\win-x64\native\lib_lightgbm.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\win-x64\native\lightgbm.exe
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\linux-x64\native\libFastTreeNative.so
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\win-x64\native\FastTreeNative.dll
+D:\Programming\C#\Machinelearningcode\ModelApi\bin\Debug\net6.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\appsettings.json
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\ModelApi.exe
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\ModelApi.deps.json
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\ModelApi.runtimeconfig.json
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\ModelApi.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\ModelApi.pdb
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.Core.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.Data.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.PCA.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.Transforms.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.CpuMath.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.FastTree.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.ML.LightGbm.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\win-x64\native\lightgbm.exe
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\bin\Debug\net6.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.csproj.AssemblyReference.cache
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.AssemblyInfoInputs.cache
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.AssemblyInfo.cs
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.csproj.CoreCompileInputs.cache
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\staticwebassets\msbuild.ModelApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ModelApi.props
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModelApi.props
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModelApi.props
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\scopedcss\bundle\ModelApi.styles.css
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.csproj.CopyComplete
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\refint\ModelApi.dll
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.pdb
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ModelApi.genruntimeconfig.cache
+C:\Users\mkolb\Documents\Word documents\HBO ICT\Semester 4\Groepsproject\Code\MachineLearing\MachineLearing\ModelApi\obj\Debug\net6.0\ref\ModelApi.dll
